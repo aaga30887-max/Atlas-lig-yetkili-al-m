@@ -1,0 +1,14 @@
+{
+  "name": "discord-yetkili-alim-botu",
+  "version": "2.0.0",
+  "description": "Discord yetkili alim botu - Components V2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MSİ",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.19.0"
+  }
+}
